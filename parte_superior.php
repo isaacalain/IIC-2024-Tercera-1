@@ -4,24 +4,21 @@
 <head>
     <meta charset="utf-8">
     <meta name="Poyecto de Tercera 1" content="Página de prueba">
-    <title>
-        Tercera 1
-    </title>
     <link rel="stylesheet" href="./styles/main.css">
 
 
 </head>
+
 <menu>
     <div class="menu-izquierda">
         <a href="./index.php">
-        <img src="./images/menu.png" alt="">
+        <img src="./images/logo1.jpeg" alt="">
         </a>
 
-        <p class="texto-menu-izquierda">
-            La casa de Bob
-
-        </p>
+    </div>
+    <div class="menu-derecha">
+        <a class ="enlaces-menu-derecha" href="https://google.com">Primer Ingreso</a>
+        <a class ="enlaces-menu-derecha" href="https://google.com">Aula en Linea</a>
 
 
     </div>
-</menu>
