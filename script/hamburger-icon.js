@@ -7,7 +7,7 @@ console.log("Hamburger Icon Cargado");
         },
         eventhandlers: function () {
             document.querySelector('.hamburger-icon').addEventListener('click', function () {
-                document.querySelector('.menu-container').classlist.toggle('menu-open');
+                document.querySelector('.menu-container').classList.toggle('menu-open');
 
             })
         }

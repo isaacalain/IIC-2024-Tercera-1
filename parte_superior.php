@@ -20,7 +20,7 @@
             <a class="enlaces-menu-derecha" href="https://google.com">Aula en Linea</a>
 
         </div>
-        <div class ="hamburger-icon ">
+        <div class ="hamburger-icon">
             <span></span>
             <span></span>
             <span></span>
